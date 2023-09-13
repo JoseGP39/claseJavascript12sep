@@ -1,2 +1,2 @@
-# pruebaSincronizacionProyecto
-Probando sincronizar proyecto desde Git Bash
+# Escribiendo código desde el espacio de github
+## Ejemplo en HTML y JS
